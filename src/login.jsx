@@ -33,7 +33,7 @@ const Login = () => {
               <input type="checkbox" id="remember" />
               <label htmlFor="remember">Remember me</label>
             </div>
-            <span className="link">Forgot Password?</span>
+            <span className="link">Forgotd Password?</span>
           </div>
 
           {/* BUTTON */}
